@@ -48,14 +48,23 @@ Amazon SNS – alertas por desvíos presupuestarios
 📈 Indicadores Clave Analizados
 
 Costo mensual por unidad operativa
+
 Variación intermensual de gastos fijos y variables
+
 ROI por proceso o área
+
 Costos innecesarios detectados por patrones de uso
+
 Alertas por sobrecostos o tendencias de ineficiencia
+
+
 
 💡 Valor del Proyecto
 
 Diseño de pipelines para análisis financiero en la nube
+
 Visualización de insights económicos con QuickSight
+
 Reducción de costos mediante decisiones basadas en datos
+
 Uso completo del Free Tier de AWS
